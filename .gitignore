@@ -138,5 +138,6 @@ dmypy.json
 cython_debug/
 
 
-# VS Code Folder
+# VS Code Project Files
 /.vscode
+/static
